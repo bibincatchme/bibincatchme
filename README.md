@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kmhmubin" target="blank"><img align="center" src="https://github.com/kmhmubin/kmhmubin/blob/master/assets/linkedin.svg" alt="kmhmubin" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/bibin-joseph-52452ab1/" target="blank"><img align="center" src="https://github.com/bibincatchme/bibincatchme/blob/main/linkedin.svg" alt="BibinJoseph" height="30" width="30" /></a>
 </p>
